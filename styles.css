@@ -312,22 +312,23 @@ h5.card-title{
     margin-right: 2%;
 }
 
-.sixth-container{
+.sixth-container {
     text-align: center;
     position: relative;
 }
 
-.sixth-container .huge-network-2{
+.sixth-container .huge-network-2 {
     margin-bottom: 3%;
     padding:0% 27%;
 }
 
-.card-slider{
-    height: 300px;
-    background-color: #DDDDDD;
+.card-slider {
+    height: 250px;
+    background-color: #fff;
+    border-radius: 15px;
 }
 
-.subscribe{
+.subscribe {
     width: 80%;
     display: flex;
     flex-flow: row nowrap;
@@ -337,55 +338,55 @@ h5.card-title{
     box-shadow: 2px 35px 40px 40px #F6F6F6;
     background-color: #fff;
     position: absolute;
-    top: 450px;
+    top: 300px;
 }
 
 
-.subscribe-text{
+.subscribe-text {
     padding: 5% 17.5% 4% 7%;
     width: 60%;
     text-align: left;
 }
 
-.subscribe-btn{
+.subscribe-btn {
     width: 40%;
     padding-left: 3%;
     margin-top: 9%;
 }
 
-.subscribe-btn .filled-orange-btn{
+.subscribe-btn .filled-orange-btn {
     padding: 4.5% 15%
 }
 
-.last-container h5{
+.last-container h5 {
     padding-bottom: 8%;
     padding-top: 5%;
 }
 
-.text-col a{
+.text-col a {
     line-height: 2.5;
     display: block;
     color: #4F5665;
 }
 
-.text-col a:hover{
+.text-col a:hover {
     text-decoration: none;
     color: #0B132A;
 }
 
-.logo-img{
+.logo-img {
     margin-right: 2%;
     padding-bottom: 5px;
 }
 
-.logo-col p{
+.logo-col p {
     padding: 3% 35% 3% 0;
 }
 
-.foot{
+.foot {
     color: #AFB5C0;
 }
 
-.foot-icon{
+.foot-icon {
     color: #F53838;
 }
